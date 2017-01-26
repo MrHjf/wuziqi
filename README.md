@@ -1,2 +1,1 @@
-# wuziqi.github.io
-ai
+# wuziqi 
